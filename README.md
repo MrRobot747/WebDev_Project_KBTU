@@ -1,13 +1,13 @@
 # MealMap
-MealMap – ваш личный помощник в планировании питания!
+MealMap – Your Personal Meal Planning Assistant!
 
-MealMap – это удобное веб-приложение, созданное, чтобы упростить процесс планирования питания для всей семьи. Мы знаем, как сложно каждый день решать, что приготовить, следить за сбалансированностью рациона и не забывать ничего в магазине.
+MealMap is a convenient web application designed to simplify meal planning for the whole family. We understand how challenging it can be to decide what to cook every day, maintain a balanced diet, and remember everything at the store.
 
-С MealMap вы сможете:
-✅ Планировать меню на неделю, выбирая блюда из библиотеки рецептов.
-✅ Автоматически формировать список покупок, чтобы ничего не забыть.
-✅ Делиться списком покупок с близкими – они сразу увидят, что нужно купить.
-✅ Следить за питанием – приложение учитывает калорийность, белки, жиры и углеводы.
-✅ Экономить время и силы, превращая рутину в удобный и понятный процесс.
+With MealMap, you can:
+✅ Plan your weekly menu by selecting dishes from the recipe library.
+✅ Automatically generate a shopping list so you never forget anything.
+✅ Share your shopping list with family members – they’ll instantly see what needs to be bought.
+✅ Track your nutrition – the app calculates calories, proteins, fats, and carbohydrates.
+✅ Save time and effort, turning meal planning into a simple and stress-free process.
 
-MealMap – это не просто планирование, а забота о вашем времени, здоровье и комфорте. Попробуйте, и приготовление еды станет легким и приятным занятием! 🍽✨
+MealMap is more than just planning – it’s about caring for your time, health, and comfort. Try it out and make cooking an easy and enjoyable experience! 🍽✨
